@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+# Ashmar Sharoon Portfolio
 
-## Project info
+A cinematic personal portfolio built to showcase my AI/ML, NLP, OpenCV, Flask, and web development projects in an interactive, recruiter-focused way.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Live Demo
 
-## How can I edit this code?
+https://timecapsulekju.netlify.app/
 
-There are several ways of editing your application.
+## About
 
-**Use Lovable**
+This portfolio highlights my academic background, technical skills, project work, professional recognition, and contact details. It is designed with a bold visual style, smooth animations, and clear hiring signals for entry-level IT, AI/ML, and web development opportunities.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- Interactive hero section
+- GSAP animations
+- Moving marquee text
+- AI-themed visual background
+- Project showcase with direct links
+- Skills section with technology chips
+- Recognition and education sections
+- Hire Me contact panel
+- Responsive design for mobile and desktop
 
-**Use your preferred IDE**
+## Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- HTML5
+- CSS3
+- JavaScript
+- GSAP
+- Netlify
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Projects Featured
 
-Follow these steps:
+### Chat Platform with Sentiment Analysis
+Real-time chat platform with NLP-based sentiment classification.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Real-Time Focus Monitor Chrome Extension
+Chrome extension using OpenCV and Python for facial and attention analysis.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Unfiltered Healing Website
+Responsive client website for mental health services.
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Contact
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Email: ashmarsharoon@gmail.com  
+Phone: +91 9566412740  
+GitHub: https://github.com/Ashmar001  
+LinkedIn: https://www.linkedin.com/in/ashmar-sharoon-b7135a255
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
